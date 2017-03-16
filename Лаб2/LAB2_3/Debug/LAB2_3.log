@@ -1,0 +1,6 @@
+﻿  LAB2_3.cpp
+d:\проекты\lab2_3\lab2_3\queue.h(53): warning C4715: Queue<int>::pop: значение возвращается не при всех путях выполнения
+d:\проекты\lab2_3\lab2_3\queue.h(51): warning C4172: возвращение адреса локальной или временной переменной : tmp
+d:\проекты\lab2_3\lab2_3\deque.h(81): warning C4715: Deque<int>::pop_left: значение возвращается не при всех путях выполнения
+d:\проекты\lab2_3\lab2_3\deque.h(101): warning C4715: Deque<int>::pop_right: значение возвращается не при всех путях выполнения
+  LAB2_3.vcxproj -> D:\проекты\LAB2_3\Debug\LAB2_3.exe
